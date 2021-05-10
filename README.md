@@ -2,9 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is the Tardis Hw
+
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+installs all the missing node modules
 
 ### `npm start`
 
